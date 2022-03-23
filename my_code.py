@@ -9,4 +9,4 @@ def multiplier(pListNums:list):
 if (__name__=="__main__"):
     listMyNums = [1,2,3]
     theResult = multiplier(listMyNums)
-    print (f"O resultado é {nResult}\n")
+    print (f"O resultado é {theResult}\n")
